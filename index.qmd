@@ -101,7 +101,7 @@ Sofía Ortiz es Doctoranda en Psicología en CIIPME-CONICET y cursa la Especiali
 
 ## 🤝 Código de conducta
 
-Todas las personas que participan en nuestro taller deben estar de acuerdo con el [código de conducta de RLadies](https://latinr.org/sobre/coc/).
+Todas las personas que participan en nuestro taller deben estar de acuerdo con el [código de conducta de RLadies](https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md#spanish).
 
 ## Licencia
 
