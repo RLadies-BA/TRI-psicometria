@@ -102,6 +102,7 @@ width="149"}
 [Sofía Ortiz](https://www.linkedin.com/in/ortizsofia/) es Doctoranda en Psicología en CIIPME-CONICET y cursa la Especialización en Ciencia de Datos Aplicada a la Psicología y Ciencias del Comportamiento en la Universidad de Buenos Aires (UBA). Se desempeña como docente de grado y posgrado en la Facultad de Psicología de la UBA y en FLACSO, y se interesa por la investigación en psicología cognitiva, la psicometría y el análisis de datos.
 
 
+
 ## 🤝 Código de conducta
 
 Todas las personas que participan en nuestro taller deben estar de acuerdo con el [código de conducta de RLadies](https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md#spanish).

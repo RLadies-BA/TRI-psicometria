@@ -6,19 +6,18 @@
 
 🎓 **Lidera:** [Lic. Sofía Ortíz](https://www.linkedin.com/in/ortizsofia/)
 
-
 ## 📚 ¿Qué vas a aprender?
 
-Al finalizar el taller, se espera que las participantes puedan:  
+Al finalizar el taller, se espera que las participantes puedan:
 
-- Comprender qué es la Teoría de Respuesta al Ítem (TRI) y en qué contextos se utiliza   
+-   Comprender qué es la Teoría de Respuesta al Ítem (TRI) y en qué contextos se utiliza
 
-- Diferenciar TRI de enfoques clásicos (CTT) a nivel conceptual   
+-   Diferenciar TRI de enfoques clásicos (CTT) a nivel conceptual
 
-- Interpretar los parámetros básicos  
+-   Interpretar los parámetros básicos
 
-- Ajustar modelos de TRI en R utilizando el paquete mirt   
+-   Ajustar modelos de TRI en R utilizando el paquete mirt
 
-- Visualizar e interpretar curvas características de ítems y del test.
+-   Visualizar e interpretar curvas características de ítems y del test.
 
 Encontrá más información en la [página del taller](rladies-ba.github.io/TRI-psicometria/).
