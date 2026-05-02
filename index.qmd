@@ -5,20 +5,26 @@ execute:
 toc: true
 ---
 
+## ¡Nuevo meetup de RLadies Buenos Aires!
+
+
 📅 **Fecha:** viernes 15 de mayo, 2026
 
 🕕 **Horario:** 18:00 a 20:00hs (UTC -3 Hora Buenos Aires)
 
+📍 **Presencial:** CIIPME - Tte. Gral. Juan Domingo Perón 2158, CABA
+
+
 [**Inscripción aquí**](https://www.meetup.com/rladies-buenos-aires/events/314530835/?slug=rladies-buenos-aires&eventId=314530835)
 
-## Materiales 
+## Materiales
 
 Diapositivas y script se compartirán más cerca de la fecha.
 
+
 ## 🎯 Objetivo del taller
 
-En este taller introductorio vamos a acercarnos a la Teoría de Respuesta al Ítem (TRI) de una manera práctica y accesible. La TRI sirve para entender mejor cómo funcionan los ítems (preguntas) de un test y cómo miden una habilidad o rasgo. Nos permite ver, por ejemplo, si un ítem es más fácil o más difícil, si discrimina bien entre personas con distinto nivel, y si funciona de manera consistente.
-También es una herramienta muy útil para seleccionar los mejores ítems, acortar tests sin perder calidad y diseñar escalas más precisas, especialmente en contextos de desarrollo y adaptación de instrumentos.
+En este taller presencial, introductorio vamos a acercarnos a la Teoría de Respuesta al Ítem (TRI) de una manera práctica y accesible. La TRI sirve para entender mejor cómo funcionan los ítems (preguntas) de un test y cómo miden una habilidad o rasgo. Nos permite ver, por ejemplo, si un ítem es más fácil o más difícil, si discrimina bien entre personas con distinto nivel, y si funciona de manera consistente. También es una herramienta muy útil para seleccionar los mejores ítems, acortar tests sin perder calidad y diseñar escalas más precisas, especialmente en contextos de desarrollo y adaptación de instrumentos.
 
 A lo largo del encuentro, vas a construir una comprensión conceptual de sus ideas principales (sin necesidad de experiencia previa en TRI), y vas a ver cómo aplicarlas en la práctica usando R. Además, vamos a trabajar en cómo interpretar los resultados de forma intuitiva, para entender mejor cómo funcionan los ítems y qué aportan a la medición.
 
@@ -29,14 +35,13 @@ La idea es que te lleves una primera caja de herramientas para empezar a usar TR
 
 Durante este taller, vas a aprender:
 
-- Los conceptos básicos de la Teoría de Respuesta al Ítem (TRI) y en qué contextos se utiliza
+-   Los conceptos básicos de la Teoría de Respuesta al Ítem (TRI) y en qué contextos se utiliza
 
-- Cómo interpretar los parámetros básicos
+-   Cómo interpretar los parámetros básicos
 
-- Cómo ajustar modelos de TRI en R utilizando el paquete mirt
+-   Cómo ajustar modelos de TRI en R utilizando el paquete mirt
 
-- Cómo visualizar e interpretar curvas características de ítems y del test
-
+-   Cómo visualizar e interpretar curvas características de ítems y del test
 
 ## 🧰 Requisitos técnicos
 
@@ -69,7 +74,6 @@ version
 ```
 
 ::: {.callout-tip icon="gear" title="Cómo cambiar la versión de R en RStudio"}
-
 Si RStudio no está usando la versión más reciente de R que instalaste, seguí estos pasos:
 
 a.  Abrí el menú **Herramientas / Tools**
@@ -81,11 +85,9 @@ c.  En la pestaña **General**, buscá el campo **Versión de R**
 d.  Elegí la versión más reciente disponible
 
 e.  Hacé clic en **Apply** y luego en **OK**
-
 :::
 
 3.  **Paquetes de R necesarios**
-
 
 ```{r, eval=FALSE}
 
@@ -95,17 +97,29 @@ install.packages(c("tidyverse","mirt", "lmt"))
 
 ## Instructora
 
-![](imagenes/sofi.jpeg){style="float:left;padding: 0 10px 0 0; border-radius:50%"
-width="149"}
-
+![](imagenes/sofi.jpeg){style="float:left;padding: 0 10px 0 0; border-radius:50%" width="149"}
 
 [Sofía Ortiz](https://www.linkedin.com/in/ortizsofia/) es Doctoranda en Psicología en CIIPME-CONICET y cursa la Especialización en Ciencia de Datos Aplicada a la Psicología y Ciencias del Comportamiento en la Universidad de Buenos Aires (UBA). Se desempeña como docente de grado y posgrado en la Facultad de Psicología de la UBA y en FLACSO, y se interesa por la investigación en psicología cognitiva, la psicometría y el análisis de datos.
-
-
 
 ## 🤝 Código de conducta
 
 Todas las personas que participan en nuestro taller deben estar de acuerdo con el [código de conducta de RLadies](https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md#spanish).
+
+
+## Agradecimientos
+
+Este taller fue auspiciado por:
+
+[![](imagenes/rladies-logo.png){width="100"}](https://rladies.org/)
+
+
+[![](imagenes/rconsortium.png){width="366"}](https://r-consortium.org/)
+
+
+y un agradecimiento especial al [Centro Interdisciplinario de Investigaciones en Psicología Matemática y Experimental "Dr. Horacio J. A. Rimoldi"-CONICET](https://www.ciipme-conicet.gov.ar/wordpress/) por facilitarnos un espacio para los encuentros presenciales y por acompañar en la difusión de nuestros
+talleres.
+
+![](imagenes/ciipme.png){width="185"}
 
 ## Licencia
 
@@ -114,5 +128,3 @@ Todas las personas que participan en nuestro taller deben estar de acuerdo con e
 Estos materiales están publicados bajo la licencia [Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/), la cual implica que podés compartir y adaptar el material siempre que reconozcas la autoría de forma adecuada.
 
 {{< fa brands creative-commons size=2x >}} {{< fa brands creative-commons-by size=2x >}}
-
-
