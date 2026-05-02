@@ -35,11 +35,11 @@
     "text": "🧰 Requisitos técnicos\nEs muy importante que tengas el entorno configurado antes del taller para poder seguirlo sin inconvenientes. Si tenés dudas, escribinos a rladiesba@gmail.com.\n\nR (versión 4.5.1) o +\n\nPara actualizar R:\n\ninstall.packages(\"installr\")\nlibrary(installr)\nupdateR()\n\n\nRStudio (versión 2025.05.1) o +\n\nDescargá e instalá la última versión desde:\n👉 https://posit.co/download/rstudio-desktop/\nLuego, verificá que RStudio esté usando la versión más reciente de R. En la consola de RStudio, escribí:\n\nversion\n\n               _                           \nplatform       x86_64-pc-linux-gnu         \narch           x86_64                      \nos             linux-gnu                   \nsystem         x86_64, linux-gnu           \nstatus                                     \nmajor          4                           \nminor          4.0                         \nyear           2024                        \nmonth          04                          \nday            24                          \nsvn rev        86474                       \nlanguage       R                           \nversion.string R version 4.4.0 (2024-04-24)\nnickname       Puppy Cup                   \n\n\n\n\n\n\n\n\nTipCómo cambiar la versión de R en RStudio\n\n\n\nSi RStudio no está usando la versión más reciente de R que instalaste, seguí estos pasos:\n\nAbrí el menú Herramientas / Tools\nSeleccioná Opciones globales / Global Options\nEn la pestaña General, buscá el campo Versión de R\nElegí la versión más reciente disponible\nHacé clic en Apply y luego en OK\n\n\n\n\nPaquetes de R necesarios\n\n\ninstall.packages(c(\"tidyverse\",\"mirt\", \"lmt\"))"
   },
   {
-    "objectID": "index.html#presentadora",
-    "href": "index.html#presentadora",
+    "objectID": "index.html#instructora",
+    "href": "index.html#instructora",
     "title": "Psicometría con R: Teoría de respuesta al ítem (TRI)",
-    "section": "Presentadora",
-    "text": "Presentadora\n\nSofía Ortiz\nSofía Ortiz es Doctoranda en Psicología en CIIPME-CONICET y cursa la Especialización en Ciencia de Datos Aplicada a la Psicología y Ciencias del Comportamiento en la Universidad de Buenos Aires (UBA). Se desempeña como docente de grado y posgrado en la Facultad de Psicología de la UBA y en FLACSO, y se interesa por la investigación en psicología cognitiva, la psicometría y el análisis de datos."
+    "section": "Instructora",
+    "text": "Instructora\n\nSofía Ortiz es Doctoranda en Psicología en CIIPME-CONICET y cursa la Especialización en Ciencia de Datos Aplicada a la Psicología y Ciencias del Comportamiento en la Universidad de Buenos Aires (UBA). Se desempeña como docente de grado y posgrado en la Facultad de Psicología de la UBA y en FLACSO, y se interesa por la investigación en psicología cognitiva, la psicometría y el análisis de datos."
   },
   {
     "objectID": "index.html#código-de-conducta",
