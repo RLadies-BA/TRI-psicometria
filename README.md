@@ -1,30 +1,24 @@
-# Automatizar la publicación de reportes con Quarto y Github Actions
+# Psicometría con R: Teoría de respuesta al ítem (TRI)
 
-📅 **Fecha:** 1 de Diciembre, 2025
+📅 **Fecha:** viernes, 15 de Mayo, 2026
 
-🕕 **Horario:** 10 am (UTC -3, Hora Buenos Aires)
+🕕 **Horario:** 18:00 a 20:00hs (UTC -3, Hora Buenos Aires)
 
-## 🎯 Objetivo del taller
+🎓 **Lidera:** [Lic. Sofía Ortíz](https://www.linkedin.com/in/ortizsofia/)
 
-El objetivo del taller es aprender a automatizar la actualización y publicación de proyectos en R y Quarto usando GitHub Actions. Para hacerlo más concreto, vamos a trabajar con un dashboard ya armado que muestra las Meriendas de LatinR, y veremos cómo configurar un flujo de integración y despliegue continuo (CI/CD) que:
-
-1.  Obtenga datos desde una hoja de cálculo en Google Sheets.
-2.  Procese la información con R.
-3.  Renderice el dashboard con Quarto.
-4.  Publique automáticamente el resultado en GitHub Pages.
 
 ## 📚 ¿Qué vas a aprender?
 
-Durante este taller, vas a aprender a:
+Al finalizar el taller, se espera que las participantes puedan:  
 
--   Qué es una GitHub Action.
+- Comprender qué es la Teoría de Respuesta al Ítem (TRI) y en qué contextos se utiliza   
 
--   Cómo usar GitHub Actions para ejecutar código en R y Quarto.
+- Diferenciar TRI de enfoques clásicos (CTT) a nivel conceptual   
 
--   Cómo utilizar Github Actions para publicar un producto de Quarto a Github Pages.
+- Interpretar los parámetros básicos  
 
--   Cómo configurar un workflow para que, con cada push o pull request, se actualice y publique automáticamente un reporte o dashboard.
+- Ajustar modelos de TRI en R utilizando el paquete mirt   
 
--   Cómo programar un workflow para que se ejecute automáticamente en intervalos regulares.
+- Visualizar e interpretar curvas características de ítems y del test.
 
-Encontrá más información en la [página del taller](jformoso.github.io/quarto-GHA/).
+Encontrá más información en la [página del taller](rladies-ba.github.io/TRI-psicometria/).
