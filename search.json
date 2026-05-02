@@ -4,7 +4,14 @@
     "href": "index.html",
     "title": "Psicometría con R: Teoría de respuesta al ítem (TRI)",
     "section": "",
-    "text": "📅 Fecha: viernes 15 de mayo, 2026\n🕕 Horario: 18:00 a 20:00hs (UTC -3 Hora Buenos Aires)\nInscripción aquí"
+    "text": "📅 Fecha: viernes 15 de mayo, 2026\n🕕 Horario: 18:00 a 20:00hs (UTC -3 Hora Buenos Aires)\n📍 Presencial: CIIPME - Tte. Gral. Juan Domingo Perón 2158, CABA\nInscripción aquí"
+  },
+  {
+    "objectID": "index.html#nuevo-meetup-de-rladies-buenos-aires",
+    "href": "index.html#nuevo-meetup-de-rladies-buenos-aires",
+    "title": "Psicometría con R: Teoría de respuesta al ítem (TRI)",
+    "section": "",
+    "text": "📅 Fecha: viernes 15 de mayo, 2026\n🕕 Horario: 18:00 a 20:00hs (UTC -3 Hora Buenos Aires)\n📍 Presencial: CIIPME - Tte. Gral. Juan Domingo Perón 2158, CABA\nInscripción aquí"
   },
   {
     "objectID": "index.html#materiales",
@@ -18,7 +25,7 @@
     "href": "index.html#objetivo-del-taller",
     "title": "Psicometría con R: Teoría de respuesta al ítem (TRI)",
     "section": "🎯 Objetivo del taller",
-    "text": "🎯 Objetivo del taller\nEn este taller introductorio vamos a acercarnos a la Teoría de Respuesta al Ítem (TRI) de una manera práctica y accesible. La TRI sirve para entender mejor cómo funcionan los ítems (preguntas) de un test y cómo miden una habilidad o rasgo. Nos permite ver, por ejemplo, si un ítem es más fácil o más difícil, si discrimina bien entre personas con distinto nivel, y si funciona de manera consistente. También es una herramienta muy útil para seleccionar los mejores ítems, acortar tests sin perder calidad y diseñar escalas más precisas, especialmente en contextos de desarrollo y adaptación de instrumentos.\nA lo largo del encuentro, vas a construir una comprensión conceptual de sus ideas principales (sin necesidad de experiencia previa en TRI), y vas a ver cómo aplicarlas en la práctica usando R. Además, vamos a trabajar en cómo interpretar los resultados de forma intuitiva, para entender mejor cómo funcionan los ítems y qué aportan a la medición.\nLa idea es que te lleves una primera caja de herramientas para empezar a usar TRI en contextos de evaluación, construcción o adaptación de escalas."
+    "text": "🎯 Objetivo del taller\nEn este taller presencial, introductorio vamos a acercarnos a la Teoría de Respuesta al Ítem (TRI) de una manera práctica y accesible. La TRI sirve para entender mejor cómo funcionan los ítems (preguntas) de un test y cómo miden una habilidad o rasgo. Nos permite ver, por ejemplo, si un ítem es más fácil o más difícil, si discrimina bien entre personas con distinto nivel, y si funciona de manera consistente. También es una herramienta muy útil para seleccionar los mejores ítems, acortar tests sin perder calidad y diseñar escalas más precisas, especialmente en contextos de desarrollo y adaptación de instrumentos.\nA lo largo del encuentro, vas a construir una comprensión conceptual de sus ideas principales (sin necesidad de experiencia previa en TRI), y vas a ver cómo aplicarlas en la práctica usando R. Además, vamos a trabajar en cómo interpretar los resultados de forma intuitiva, para entender mejor cómo funcionan los ítems y qué aportan a la medición.\nLa idea es que te lleves una primera caja de herramientas para empezar a usar TRI en contextos de evaluación, construcción o adaptación de escalas."
   },
   {
     "objectID": "index.html#qué-vas-a-aprender",
@@ -47,6 +54,13 @@
     "title": "Psicometría con R: Teoría de respuesta al ítem (TRI)",
     "section": "🤝 Código de conducta",
     "text": "🤝 Código de conducta\nTodas las personas que participan en nuestro taller deben estar de acuerdo con el código de conducta de RLadies."
+  },
+  {
+    "objectID": "index.html#agradecimientos",
+    "href": "index.html#agradecimientos",
+    "title": "Psicometría con R: Teoría de respuesta al ítem (TRI)",
+    "section": "Agradecimientos",
+    "text": "Agradecimientos\nEste taller fue auspiciado por:\n\n\ny un agradecimiento especial al Centro Interdisciplinario de Investigaciones en Psicología Matemática y Experimental “Dr. Horacio J. A. Rimoldi”-CONICET por facilitarnos un espacio para los encuentros presenciales y por acompañar en la difusión de nuestros talleres."
   },
   {
     "objectID": "index.html#licencia",
