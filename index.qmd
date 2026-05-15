@@ -19,7 +19,8 @@ toc: true
 
 ## Materiales
 
-Diapositivas y script se compartirán más cerca de la fecha.
+- [Diapositivas](https://github.com/RLadies-BA/TRI-psicometria/blob/main/RLadies_TRI_Diapositivas.pdf)
+- [Script de R](https://github.com/RLadies-BA/TRI-psicometria/blob/main/Script.R)
 
 
 ## 🎯 Objetivo del taller
